@@ -1,0 +1,5479 @@
+[{
+  "_id": {
+    "$oid": "63a2c9cc29be25b032725701"
+  },
+  "unixTime": 1671631956,
+  "timestamp": "2022-12-21 14:24:36",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9cd29be25b032725702"
+  },
+  "unixTime": 1671631957,
+  "timestamp": "2022-12-21 14:24:37",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.65,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ce29be25b032725703"
+  },
+  "unixTime": 1671631958,
+  "timestamp": "2022-12-21 14:24:38",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.16,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9cf29be25b032725704"
+  },
+  "unixTime": 1671631959,
+  "timestamp": "2022-12-21 14:24:39",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d029be25b032725705"
+  },
+  "unixTime": 1671631960,
+  "timestamp": "2022-12-21 14:24:40",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.22,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d129be25b032725706"
+  },
+  "unixTime": 1671631961,
+  "timestamp": "2022-12-21 14:24:41",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d229be25b032725707"
+  },
+  "unixTime": 1671631962,
+  "timestamp": "2022-12-21 14:24:42",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d329be25b032725708"
+  },
+  "unixTime": 1671631963,
+  "timestamp": "2022-12-21 14:24:43",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.05,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d429be25b032725709"
+  },
+  "unixTime": 1671631964,
+  "timestamp": "2022-12-21 14:24:44",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d529be25b03272570a"
+  },
+  "unixTime": 1671631965,
+  "timestamp": "2022-12-21 14:24:45",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.8,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d629be25b03272570b"
+  },
+  "unixTime": 1671631966,
+  "timestamp": "2022-12-21 14:24:46",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.22,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d729be25b03272570c"
+  },
+  "unixTime": 1671631967,
+  "timestamp": "2022-12-21 14:24:47",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.75,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d829be25b03272570d"
+  },
+  "unixTime": 1671631968,
+  "timestamp": "2022-12-21 14:24:48",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9d929be25b03272570e"
+  },
+  "unixTime": 1671631969,
+  "timestamp": "2022-12-21 14:24:49",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.46,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9da29be25b03272570f"
+  },
+  "unixTime": 1671631970,
+  "timestamp": "2022-12-21 14:24:50",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.19,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9db29be25b032725710"
+  },
+  "unixTime": 1671631971,
+  "timestamp": "2022-12-21 14:24:51",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9dc29be25b032725711"
+  },
+  "unixTime": 1671631972,
+  "timestamp": "2022-12-21 14:24:52",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.59,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9dd29be25b032725712"
+  },
+  "unixTime": 1671631973,
+  "timestamp": "2022-12-21 14:24:53",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.94,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9de29be25b032725713"
+  },
+  "unixTime": 1671631974,
+  "timestamp": "2022-12-21 14:24:54",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.52,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9df29be25b032725714"
+  },
+  "unixTime": 1671631975,
+  "timestamp": "2022-12-21 14:24:55",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.61,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e029be25b032725715"
+  },
+  "unixTime": 1671631976,
+  "timestamp": "2022-12-21 14:24:56",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.47,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e129be25b032725716"
+  },
+  "unixTime": 1671631977,
+  "timestamp": "2022-12-21 14:24:57",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.79,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e229be25b032725717"
+  },
+  "unixTime": 1671631978,
+  "timestamp": "2022-12-21 14:24:58",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.17,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e329be25b032725718"
+  },
+  "unixTime": 1671631979,
+  "timestamp": "2022-12-21 14:24:59",
+  "openPrice": "16823.54000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e429be25b032725719"
+  },
+  "unixTime": 1671631980,
+  "timestamp": "2022-12-21 14:25:00",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16878.28,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e529be25b03272571a"
+  },
+  "unixTime": 1671631981,
+  "timestamp": "2022-12-21 14:25:01",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.09,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e629be25b03272571b"
+  },
+  "unixTime": 1671631982,
+  "timestamp": "2022-12-21 14:25:02",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.43,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e729be25b03272571c"
+  },
+  "unixTime": 1671631983,
+  "timestamp": "2022-12-21 14:25:03",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.16,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e829be25b03272571d"
+  },
+  "unixTime": 1671631984,
+  "timestamp": "2022-12-21 14:25:04",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9e929be25b03272571e"
+  },
+  "unixTime": 1671631985,
+  "timestamp": "2022-12-21 14:25:05",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16885.82,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ea29be25b03272571f"
+  },
+  "unixTime": 1671631986,
+  "timestamp": "2022-12-21 14:25:06",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.52,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9eb29be25b032725720"
+  },
+  "unixTime": 1671631987,
+  "timestamp": "2022-12-21 14:25:07",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16884.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ec29be25b032725721"
+  },
+  "unixTime": 1671631988,
+  "timestamp": "2022-12-21 14:25:08",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16885.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ed29be25b032725722"
+  },
+  "unixTime": 1671631989,
+  "timestamp": "2022-12-21 14:25:09",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ee29be25b032725723"
+  },
+  "unixTime": 1671631990,
+  "timestamp": "2022-12-21 14:25:10",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16884.21,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ef29be25b032725724"
+  },
+  "unixTime": 1671631991,
+  "timestamp": "2022-12-21 14:25:11",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16884.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f029be25b032725725"
+  },
+  "unixTime": 1671631992,
+  "timestamp": "2022-12-21 14:25:12",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.32,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f129be25b032725726"
+  },
+  "unixTime": 1671631993,
+  "timestamp": "2022-12-21 14:25:13",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.38,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f229be25b032725727"
+  },
+  "unixTime": 1671631994,
+  "timestamp": "2022-12-21 14:25:14",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f329be25b032725728"
+  },
+  "unixTime": 1671631995,
+  "timestamp": "2022-12-21 14:25:15",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.71,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f429be25b032725729"
+  },
+  "unixTime": 1671631996,
+  "timestamp": "2022-12-21 14:25:16",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.19,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f529be25b03272572a"
+  },
+  "unixTime": 1671631997,
+  "timestamp": "2022-12-21 14:25:17",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f629be25b03272572b"
+  },
+  "unixTime": 1671631998,
+  "timestamp": "2022-12-21 14:25:18",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.82,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f729be25b03272572c"
+  },
+  "unixTime": 1671631999,
+  "timestamp": "2022-12-21 14:25:19",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.39,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f829be25b03272572d"
+  },
+  "unixTime": 1671632000,
+  "timestamp": "2022-12-21 14:25:20",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9f929be25b03272572e"
+  },
+  "unixTime": 1671632001,
+  "timestamp": "2022-12-21 14:25:21",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9fa29be25b03272572f"
+  },
+  "unixTime": 1671632002,
+  "timestamp": "2022-12-21 14:25:22",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.56,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9fb29be25b032725730"
+  },
+  "unixTime": 1671632003,
+  "timestamp": "2022-12-21 14:25:23",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9fc29be25b032725731"
+  },
+  "unixTime": 1671632004,
+  "timestamp": "2022-12-21 14:25:24",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9fd29be25b032725732"
+  },
+  "unixTime": 1671632005,
+  "timestamp": "2022-12-21 14:25:25",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16886.01,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9fe29be25b032725733"
+  },
+  "unixTime": 1671632006,
+  "timestamp": "2022-12-21 14:25:26",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16885.65,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2c9ff29be25b032725734"
+  },
+  "unixTime": 1671632007,
+  "timestamp": "2022-12-21 14:25:27",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16884.13,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0029be25b032725735"
+  },
+  "unixTime": 1671632008,
+  "timestamp": "2022-12-21 14:25:28",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16886.57,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0129be25b032725736"
+  },
+  "unixTime": 1671632009,
+  "timestamp": "2022-12-21 14:25:29",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16885.66,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0229be25b032725737"
+  },
+  "unixTime": 1671632010,
+  "timestamp": "2022-12-21 14:25:30",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0329be25b032725738"
+  },
+  "unixTime": 1671632011,
+  "timestamp": "2022-12-21 14:25:31",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.84,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0429be25b032725739"
+  },
+  "unixTime": 1671632012,
+  "timestamp": "2022-12-21 14:25:32",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0529be25b03272573a"
+  },
+  "unixTime": 1671632013,
+  "timestamp": "2022-12-21 14:25:33",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.7,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0629be25b03272573b"
+  },
+  "unixTime": 1671632014,
+  "timestamp": "2022-12-21 14:25:34",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.98,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0729be25b03272573c"
+  },
+  "unixTime": 1671632015,
+  "timestamp": "2022-12-21 14:25:35",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0829be25b03272573d"
+  },
+  "unixTime": 1671632016,
+  "timestamp": "2022-12-21 14:25:36",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16883.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0929be25b03272573e"
+  },
+  "unixTime": 1671632017,
+  "timestamp": "2022-12-21 14:25:37",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0a29be25b03272573f"
+  },
+  "unixTime": 1671632018,
+  "timestamp": "2022-12-21 14:25:38",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0b29be25b032725740"
+  },
+  "unixTime": 1671632019,
+  "timestamp": "2022-12-21 14:25:39",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.11,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0c29be25b032725741"
+  },
+  "unixTime": 1671632020,
+  "timestamp": "2022-12-21 14:25:40",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0d29be25b032725742"
+  },
+  "unixTime": 1671632021,
+  "timestamp": "2022-12-21 14:25:41",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.93,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0e29be25b032725743"
+  },
+  "unixTime": 1671632022,
+  "timestamp": "2022-12-21 14:25:42",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16882.84,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca0f29be25b032725744"
+  },
+  "unixTime": 1671632023,
+  "timestamp": "2022-12-21 14:25:43",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.33,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1029be25b032725745"
+  },
+  "unixTime": 1671632024,
+  "timestamp": "2022-12-21 14:25:44",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.29,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1129be25b032725746"
+  },
+  "unixTime": 1671632025,
+  "timestamp": "2022-12-21 14:25:45",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1229be25b032725747"
+  },
+  "unixTime": 1671632026,
+  "timestamp": "2022-12-21 14:25:46",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.07,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1329be25b032725748"
+  },
+  "unixTime": 1671632027,
+  "timestamp": "2022-12-21 14:25:47",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1429be25b032725749"
+  },
+  "unixTime": 1671632028,
+  "timestamp": "2022-12-21 14:25:48",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1529be25b03272574a"
+  },
+  "unixTime": 1671632029,
+  "timestamp": "2022-12-21 14:25:49",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.84,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1629be25b03272574b"
+  },
+  "unixTime": 1671632030,
+  "timestamp": "2022-12-21 14:25:50",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16879.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1729be25b03272574c"
+  },
+  "unixTime": 1671632031,
+  "timestamp": "2022-12-21 14:25:51",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16878.56,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1829be25b03272574d"
+  },
+  "unixTime": 1671632032,
+  "timestamp": "2022-12-21 14:25:52",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16877.86,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1929be25b03272574e"
+  },
+  "unixTime": 1671632033,
+  "timestamp": "2022-12-21 14:25:53",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16878.68,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1a29be25b03272574f"
+  },
+  "unixTime": 1671632034,
+  "timestamp": "2022-12-21 14:25:54",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1b29be25b032725750"
+  },
+  "unixTime": 1671632035,
+  "timestamp": "2022-12-21 14:25:55",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1c29be25b032725751"
+  },
+  "unixTime": 1671632036,
+  "timestamp": "2022-12-21 14:25:56",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16881.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1d29be25b032725752"
+  },
+  "unixTime": 1671632037,
+  "timestamp": "2022-12-21 14:25:57",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.76,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1e29be25b032725753"
+  },
+  "unixTime": 1671632038,
+  "timestamp": "2022-12-21 14:25:58",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.81,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca1f29be25b032725754"
+  },
+  "unixTime": 1671632039,
+  "timestamp": "2022-12-21 14:25:59",
+  "openPrice": "16828.93000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16878.39,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2029be25b032725755"
+  },
+  "unixTime": 1671632040,
+  "timestamp": "2022-12-21 14:26:00",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16876.8,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2129be25b032725756"
+  },
+  "unixTime": 1671632041,
+  "timestamp": "2022-12-21 14:26:01",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16874.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2229be25b032725757"
+  },
+  "unixTime": 1671632042,
+  "timestamp": "2022-12-21 14:26:02",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16874.53,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2329be25b032725758"
+  },
+  "unixTime": 1671632043,
+  "timestamp": "2022-12-21 14:26:03",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16874.61,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2429be25b032725759"
+  },
+  "unixTime": 1671632044,
+  "timestamp": "2022-12-21 14:26:04",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16876.74,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2529be25b03272575a"
+  },
+  "unixTime": 1671632045,
+  "timestamp": "2022-12-21 14:26:05",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16876.74,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2629be25b03272575b"
+  },
+  "unixTime": 1671632046,
+  "timestamp": "2022-12-21 14:26:06",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16876.81,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2729be25b03272575c"
+  },
+  "unixTime": 1671632047,
+  "timestamp": "2022-12-21 14:26:07",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16876.75,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2829be25b03272575d"
+  },
+  "unixTime": 1671632048,
+  "timestamp": "2022-12-21 14:26:08",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16877.18,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2929be25b03272575e"
+  },
+  "unixTime": 1671632049,
+  "timestamp": "2022-12-21 14:26:09",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16877.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2a29be25b03272575f"
+  },
+  "unixTime": 1671632050,
+  "timestamp": "2022-12-21 14:26:10",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16880.01,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2b29be25b032725760"
+  },
+  "unixTime": 1671632051,
+  "timestamp": "2022-12-21 14:26:11",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16877.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2c29be25b032725761"
+  },
+  "unixTime": 1671632052,
+  "timestamp": "2022-12-21 14:26:12",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16874.66,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2d29be25b032725762"
+  },
+  "unixTime": 1671632053,
+  "timestamp": "2022-12-21 14:26:13",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16875.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2e29be25b032725763"
+  },
+  "unixTime": 1671632054,
+  "timestamp": "2022-12-21 14:26:14",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16877.24,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca2f29be25b032725764"
+  },
+  "unixTime": 1671632055,
+  "timestamp": "2022-12-21 14:26:15",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16876.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3029be25b032725765"
+  },
+  "unixTime": 1671632056,
+  "timestamp": "2022-12-21 14:26:16",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16875.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3129be25b032725766"
+  },
+  "unixTime": 1671632057,
+  "timestamp": "2022-12-21 14:26:17",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16874.28,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3229be25b032725767"
+  },
+  "unixTime": 1671632058,
+  "timestamp": "2022-12-21 14:26:18",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.9,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3329be25b032725768"
+  },
+  "unixTime": 1671632059,
+  "timestamp": "2022-12-21 14:26:19",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3429be25b032725769"
+  },
+  "unixTime": 1671632060,
+  "timestamp": "2022-12-21 14:26:20",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.92,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3529be25b03272576a"
+  },
+  "unixTime": 1671632061,
+  "timestamp": "2022-12-21 14:26:21",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3629be25b03272576b"
+  },
+  "unixTime": 1671632062,
+  "timestamp": "2022-12-21 14:26:22",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.52,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3729be25b03272576c"
+  },
+  "unixTime": 1671632063,
+  "timestamp": "2022-12-21 14:26:23",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.46,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3829be25b03272576d"
+  },
+  "unixTime": 1671632064,
+  "timestamp": "2022-12-21 14:26:24",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3929be25b03272576e"
+  },
+  "unixTime": 1671632065,
+  "timestamp": "2022-12-21 14:26:25",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.21,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3a29be25b03272576f"
+  },
+  "unixTime": 1671632066,
+  "timestamp": "2022-12-21 14:26:26",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3b29be25b032725770"
+  },
+  "unixTime": 1671632067,
+  "timestamp": "2022-12-21 14:26:27",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3c29be25b032725771"
+  },
+  "unixTime": 1671632068,
+  "timestamp": "2022-12-21 14:26:28",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3d29be25b032725772"
+  },
+  "unixTime": 1671632069,
+  "timestamp": "2022-12-21 14:26:29",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.11,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3e29be25b032725773"
+  },
+  "unixTime": 1671632070,
+  "timestamp": "2022-12-21 14:26:30",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.21,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca3f29be25b032725774"
+  },
+  "unixTime": 1671632071,
+  "timestamp": "2022-12-21 14:26:31",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4029be25b032725775"
+  },
+  "unixTime": 1671632072,
+  "timestamp": "2022-12-21 14:26:32",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4129be25b032725776"
+  },
+  "unixTime": 1671632073,
+  "timestamp": "2022-12-21 14:26:33",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.76,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4229be25b032725777"
+  },
+  "unixTime": 1671632074,
+  "timestamp": "2022-12-21 14:26:34",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.47,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4329be25b032725778"
+  },
+  "unixTime": 1671632075,
+  "timestamp": "2022-12-21 14:26:35",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.16,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4429be25b032725779"
+  },
+  "unixTime": 1671632076,
+  "timestamp": "2022-12-21 14:26:36",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.58,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4529be25b03272577a"
+  },
+  "unixTime": 1671632077,
+  "timestamp": "2022-12-21 14:26:37",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4629be25b03272577b"
+  },
+  "unixTime": 1671632078,
+  "timestamp": "2022-12-21 14:26:38",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.84,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4729be25b03272577c"
+  },
+  "unixTime": 1671632079,
+  "timestamp": "2022-12-21 14:26:39",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.5,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4829be25b03272577d"
+  },
+  "unixTime": 1671632080,
+  "timestamp": "2022-12-21 14:26:40",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.8,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4929be25b03272577e"
+  },
+  "unixTime": 1671632081,
+  "timestamp": "2022-12-21 14:26:41",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.44,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4a29be25b03272577f"
+  },
+  "unixTime": 1671632082,
+  "timestamp": "2022-12-21 14:26:42",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.29,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4b29be25b032725780"
+  },
+  "unixTime": 1671632083,
+  "timestamp": "2022-12-21 14:26:43",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.13,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4c29be25b032725781"
+  },
+  "unixTime": 1671632084,
+  "timestamp": "2022-12-21 14:26:44",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.24,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4d29be25b032725782"
+  },
+  "unixTime": 1671632085,
+  "timestamp": "2022-12-21 14:26:45",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4e29be25b032725783"
+  },
+  "unixTime": 1671632086,
+  "timestamp": "2022-12-21 14:26:46",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.65,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca4f29be25b032725784"
+  },
+  "unixTime": 1671632087,
+  "timestamp": "2022-12-21 14:26:47",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.16,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5029be25b032725785"
+  },
+  "unixTime": 1671632088,
+  "timestamp": "2022-12-21 14:26:48",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.87,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5129be25b032725786"
+  },
+  "unixTime": 1671632089,
+  "timestamp": "2022-12-21 14:26:49",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.04,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5229be25b032725787"
+  },
+  "unixTime": 1671632090,
+  "timestamp": "2022-12-21 14:26:50",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5329be25b032725788"
+  },
+  "unixTime": 1671632091,
+  "timestamp": "2022-12-21 14:26:51",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.17,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5429be25b032725789"
+  },
+  "unixTime": 1671632092,
+  "timestamp": "2022-12-21 14:26:52",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5529be25b03272578a"
+  },
+  "unixTime": 1671632093,
+  "timestamp": "2022-12-21 14:26:53",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.91,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5629be25b03272578b"
+  },
+  "unixTime": 1671632094,
+  "timestamp": "2022-12-21 14:26:54",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.58,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5729be25b03272578c"
+  },
+  "unixTime": 1671632095,
+  "timestamp": "2022-12-21 14:26:55",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.7,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5829be25b03272578d"
+  },
+  "unixTime": 1671632096,
+  "timestamp": "2022-12-21 14:26:56",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.29,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5929be25b03272578e"
+  },
+  "unixTime": 1671632097,
+  "timestamp": "2022-12-21 14:26:57",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.24,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5a29be25b03272578f"
+  },
+  "unixTime": 1671632098,
+  "timestamp": "2022-12-21 14:26:58",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.56,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5b29be25b032725790"
+  },
+  "unixTime": 1671632099,
+  "timestamp": "2022-12-21 14:26:59",
+  "openPrice": "16829.52000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.53,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5c29be25b032725791"
+  },
+  "unixTime": 1671632100,
+  "timestamp": "2022-12-21 14:27:00",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.81,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5d29be25b032725792"
+  },
+  "unixTime": 1671632101,
+  "timestamp": "2022-12-21 14:27:01",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.75,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5e29be25b032725793"
+  },
+  "unixTime": 1671632102,
+  "timestamp": "2022-12-21 14:27:02",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca5f29be25b032725794"
+  },
+  "unixTime": 1671632103,
+  "timestamp": "2022-12-21 14:27:03",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.76,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6029be25b032725795"
+  },
+  "unixTime": 1671632104,
+  "timestamp": "2022-12-21 14:27:04",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.64,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6129be25b032725796"
+  },
+  "unixTime": 1671632105,
+  "timestamp": "2022-12-21 14:27:05",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6229be25b032725797"
+  },
+  "unixTime": 1671632106,
+  "timestamp": "2022-12-21 14:27:06",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.44,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6329be25b032725798"
+  },
+  "unixTime": 1671632107,
+  "timestamp": "2022-12-21 14:27:07",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6429be25b032725799"
+  },
+  "unixTime": 1671632108,
+  "timestamp": "2022-12-21 14:27:08",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6529be25b03272579a"
+  },
+  "unixTime": 1671632109,
+  "timestamp": "2022-12-21 14:27:09",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.13,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6629be25b03272579b"
+  },
+  "unixTime": 1671632110,
+  "timestamp": "2022-12-21 14:27:10",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.6,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6729be25b03272579c"
+  },
+  "unixTime": 1671632111,
+  "timestamp": "2022-12-21 14:27:11",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.84,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6829be25b03272579d"
+  },
+  "unixTime": 1671632112,
+  "timestamp": "2022-12-21 14:27:12",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.74,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6929be25b03272579e"
+  },
+  "unixTime": 1671632113,
+  "timestamp": "2022-12-21 14:27:13",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.82,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6a29be25b03272579f"
+  },
+  "unixTime": 1671632114,
+  "timestamp": "2022-12-21 14:27:14",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.39,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6b29be25b0327257a0"
+  },
+  "unixTime": 1671632115,
+  "timestamp": "2022-12-21 14:27:15",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.39,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6c29be25b0327257a1"
+  },
+  "unixTime": 1671632116,
+  "timestamp": "2022-12-21 14:27:16",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.93,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6d29be25b0327257a2"
+  },
+  "unixTime": 1671632117,
+  "timestamp": "2022-12-21 14:27:17",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6e29be25b0327257a3"
+  },
+  "unixTime": 1671632118,
+  "timestamp": "2022-12-21 14:27:18",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.12,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca6f29be25b0327257a4"
+  },
+  "unixTime": 1671632119,
+  "timestamp": "2022-12-21 14:27:19",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.17,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7029be25b0327257a5"
+  },
+  "unixTime": 1671632120,
+  "timestamp": "2022-12-21 14:27:20",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.95,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7129be25b0327257a6"
+  },
+  "unixTime": 1671632121,
+  "timestamp": "2022-12-21 14:27:21",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7229be25b0327257a7"
+  },
+  "unixTime": 1671632122,
+  "timestamp": "2022-12-21 14:27:22",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7329be25b0327257a8"
+  },
+  "unixTime": 1671632123,
+  "timestamp": "2022-12-21 14:27:23",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.04,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7429be25b0327257a9"
+  },
+  "unixTime": 1671632124,
+  "timestamp": "2022-12-21 14:27:24",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.4,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7529be25b0327257aa"
+  },
+  "unixTime": 1671632125,
+  "timestamp": "2022-12-21 14:27:25",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.08,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7629be25b0327257ab"
+  },
+  "unixTime": 1671632126,
+  "timestamp": "2022-12-21 14:27:26",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.81,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7729be25b0327257ac"
+  },
+  "unixTime": 1671632127,
+  "timestamp": "2022-12-21 14:27:27",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.04,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7829be25b0327257ad"
+  },
+  "unixTime": 1671632128,
+  "timestamp": "2022-12-21 14:27:28",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.75,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7929be25b0327257ae"
+  },
+  "unixTime": 1671632129,
+  "timestamp": "2022-12-21 14:27:29",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.44,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7a29be25b0327257af"
+  },
+  "unixTime": 1671632130,
+  "timestamp": "2022-12-21 14:27:30",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.78,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7b29be25b0327257b0"
+  },
+  "unixTime": 1671632131,
+  "timestamp": "2022-12-21 14:27:31",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7c29be25b0327257b1"
+  },
+  "unixTime": 1671632132,
+  "timestamp": "2022-12-21 14:27:32",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7d29be25b0327257b2"
+  },
+  "unixTime": 1671632133,
+  "timestamp": "2022-12-21 14:27:33",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7e29be25b0327257b3"
+  },
+  "unixTime": 1671632134,
+  "timestamp": "2022-12-21 14:27:34",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca7f29be25b0327257b4"
+  },
+  "unixTime": 1671632135,
+  "timestamp": "2022-12-21 14:27:35",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8029be25b0327257b5"
+  },
+  "unixTime": 1671632136,
+  "timestamp": "2022-12-21 14:27:36",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.38,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8129be25b0327257b6"
+  },
+  "unixTime": 1671632137,
+  "timestamp": "2022-12-21 14:27:37",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8229be25b0327257b7"
+  },
+  "unixTime": 1671632138,
+  "timestamp": "2022-12-21 14:27:38",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8329be25b0327257b8"
+  },
+  "unixTime": 1671632139,
+  "timestamp": "2022-12-21 14:27:39",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8429be25b0327257b9"
+  },
+  "unixTime": 1671632140,
+  "timestamp": "2022-12-21 14:27:40",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8529be25b0327257ba"
+  },
+  "unixTime": 1671632141,
+  "timestamp": "2022-12-21 14:27:41",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8629be25b0327257bb"
+  },
+  "unixTime": 1671632142,
+  "timestamp": "2022-12-21 14:27:42",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8729be25b0327257bc"
+  },
+  "unixTime": 1671632143,
+  "timestamp": "2022-12-21 14:27:43",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.91,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8829be25b0327257bd"
+  },
+  "unixTime": 1671632144,
+  "timestamp": "2022-12-21 14:27:44",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.31,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8929be25b0327257be"
+  },
+  "unixTime": 1671632145,
+  "timestamp": "2022-12-21 14:27:45",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8a29be25b0327257bf"
+  },
+  "unixTime": 1671632146,
+  "timestamp": "2022-12-21 14:27:46",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8b29be25b0327257c0"
+  },
+  "unixTime": 1671632147,
+  "timestamp": "2022-12-21 14:27:47",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.91,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8c29be25b0327257c1"
+  },
+  "unixTime": 1671632148,
+  "timestamp": "2022-12-21 14:27:48",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.93,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8d29be25b0327257c2"
+  },
+  "unixTime": 1671632149,
+  "timestamp": "2022-12-21 14:27:49",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8e29be25b0327257c3"
+  },
+  "unixTime": 1671632150,
+  "timestamp": "2022-12-21 14:27:50",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.05,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca8f29be25b0327257c4"
+  },
+  "unixTime": 1671632151,
+  "timestamp": "2022-12-21 14:27:51",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.98,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9029be25b0327257c5"
+  },
+  "unixTime": 1671632152,
+  "timestamp": "2022-12-21 14:27:52",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.38,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9129be25b0327257c6"
+  },
+  "unixTime": 1671632153,
+  "timestamp": "2022-12-21 14:27:53",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.31,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9229be25b0327257c7"
+  },
+  "unixTime": 1671632154,
+  "timestamp": "2022-12-21 14:27:54",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9329be25b0327257c8"
+  },
+  "unixTime": 1671632155,
+  "timestamp": "2022-12-21 14:27:55",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9429be25b0327257c9"
+  },
+  "unixTime": 1671632156,
+  "timestamp": "2022-12-21 14:27:56",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.66,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9529be25b0327257ca"
+  },
+  "unixTime": 1671632157,
+  "timestamp": "2022-12-21 14:27:57",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.91,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9629be25b0327257cb"
+  },
+  "unixTime": 1671632158,
+  "timestamp": "2022-12-21 14:27:58",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.43,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9729be25b0327257cc"
+  },
+  "unixTime": 1671632159,
+  "timestamp": "2022-12-21 14:27:59",
+  "openPrice": "16822.69000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9829be25b0327257cd"
+  },
+  "unixTime": 1671632160,
+  "timestamp": "2022-12-21 14:28:00",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.53,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9929be25b0327257ce"
+  },
+  "unixTime": 1671632161,
+  "timestamp": "2022-12-21 14:28:01",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.46,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9a29be25b0327257cf"
+  },
+  "unixTime": 1671632162,
+  "timestamp": "2022-12-21 14:28:02",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9b29be25b0327257d0"
+  },
+  "unixTime": 1671632163,
+  "timestamp": "2022-12-21 14:28:03",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.93,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9c29be25b0327257d1"
+  },
+  "unixTime": 1671632164,
+  "timestamp": "2022-12-21 14:28:04",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9d29be25b0327257d2"
+  },
+  "unixTime": 1671632165,
+  "timestamp": "2022-12-21 14:28:05",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9e29be25b0327257d3"
+  },
+  "unixTime": 1671632166,
+  "timestamp": "2022-12-21 14:28:06",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.4,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2ca9f29be25b0327257d4"
+  },
+  "unixTime": 1671632167,
+  "timestamp": "2022-12-21 14:28:07",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa029be25b0327257d5"
+  },
+  "unixTime": 1671632168,
+  "timestamp": "2022-12-21 14:28:08",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.13,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa129be25b0327257d6"
+  },
+  "unixTime": 1671632169,
+  "timestamp": "2022-12-21 14:28:09",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.21,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa229be25b0327257d7"
+  },
+  "unixTime": 1671632170,
+  "timestamp": "2022-12-21 14:28:10",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.66,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa329be25b0327257d8"
+  },
+  "unixTime": 1671632171,
+  "timestamp": "2022-12-21 14:28:11",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.57,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa429be25b0327257d9"
+  },
+  "unixTime": 1671632172,
+  "timestamp": "2022-12-21 14:28:12",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa529be25b0327257da"
+  },
+  "unixTime": 1671632173,
+  "timestamp": "2022-12-21 14:28:13",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.22,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa629be25b0327257db"
+  },
+  "unixTime": 1671632174,
+  "timestamp": "2022-12-21 14:28:14",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa729be25b0327257dc"
+  },
+  "unixTime": 1671632175,
+  "timestamp": "2022-12-21 14:28:15",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa829be25b0327257dd"
+  },
+  "unixTime": 1671632176,
+  "timestamp": "2022-12-21 14:28:16",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caa929be25b0327257de"
+  },
+  "unixTime": 1671632177,
+  "timestamp": "2022-12-21 14:28:17",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.68,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caaa29be25b0327257df"
+  },
+  "unixTime": 1671632178,
+  "timestamp": "2022-12-21 14:28:18",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.44,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caab29be25b0327257e0"
+  },
+  "unixTime": 1671632179,
+  "timestamp": "2022-12-21 14:28:19",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caac29be25b0327257e1"
+  },
+  "unixTime": 1671632180,
+  "timestamp": "2022-12-21 14:28:20",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caad29be25b0327257e2"
+  },
+  "unixTime": 1671632181,
+  "timestamp": "2022-12-21 14:28:21",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.13,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caae29be25b0327257e3"
+  },
+  "unixTime": 1671632182,
+  "timestamp": "2022-12-21 14:28:22",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.95,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caaf29be25b0327257e4"
+  },
+  "unixTime": 1671632183,
+  "timestamp": "2022-12-21 14:28:23",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.3,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab029be25b0327257e5"
+  },
+  "unixTime": 1671632184,
+  "timestamp": "2022-12-21 14:28:24",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.15,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab129be25b0327257e6"
+  },
+  "unixTime": 1671632185,
+  "timestamp": "2022-12-21 14:28:25",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab229be25b0327257e7"
+  },
+  "unixTime": 1671632186,
+  "timestamp": "2022-12-21 14:28:26",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.7,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab329be25b0327257e8"
+  },
+  "unixTime": 1671632187,
+  "timestamp": "2022-12-21 14:28:27",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.6,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab429be25b0327257e9"
+  },
+  "unixTime": 1671632188,
+  "timestamp": "2022-12-21 14:28:28",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab529be25b0327257ea"
+  },
+  "unixTime": 1671632189,
+  "timestamp": "2022-12-21 14:28:29",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.4,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab629be25b0327257eb"
+  },
+  "unixTime": 1671632190,
+  "timestamp": "2022-12-21 14:28:30",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.64,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab729be25b0327257ec"
+  },
+  "unixTime": 1671632191,
+  "timestamp": "2022-12-21 14:28:31",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.75,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab829be25b0327257ed"
+  },
+  "unixTime": 1671632192,
+  "timestamp": "2022-12-21 14:28:32",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.59,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cab929be25b0327257ee"
+  },
+  "unixTime": 1671632193,
+  "timestamp": "2022-12-21 14:28:33",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.28,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caba29be25b0327257ef"
+  },
+  "unixTime": 1671632194,
+  "timestamp": "2022-12-21 14:28:34",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cabb29be25b0327257f0"
+  },
+  "unixTime": 1671632195,
+  "timestamp": "2022-12-21 14:28:35",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cabc29be25b0327257f1"
+  },
+  "unixTime": 1671632196,
+  "timestamp": "2022-12-21 14:28:36",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cabd29be25b0327257f2"
+  },
+  "unixTime": 1671632197,
+  "timestamp": "2022-12-21 14:28:37",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.68,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cabe29be25b0327257f3"
+  },
+  "unixTime": 1671632198,
+  "timestamp": "2022-12-21 14:28:38",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.61,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cabf29be25b0327257f4"
+  },
+  "unixTime": 1671632199,
+  "timestamp": "2022-12-21 14:28:39",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac029be25b0327257f5"
+  },
+  "unixTime": 1671632200,
+  "timestamp": "2022-12-21 14:28:40",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac129be25b0327257f6"
+  },
+  "unixTime": 1671632201,
+  "timestamp": "2022-12-21 14:28:41",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.18,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac229be25b0327257f7"
+  },
+  "unixTime": 1671632202,
+  "timestamp": "2022-12-21 14:28:42",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.09,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac329be25b0327257f8"
+  },
+  "unixTime": 1671632203,
+  "timestamp": "2022-12-21 14:28:43",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac429be25b0327257f9"
+  },
+  "unixTime": 1671632204,
+  "timestamp": "2022-12-21 14:28:44",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.93,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac529be25b0327257fa"
+  },
+  "unixTime": 1671632205,
+  "timestamp": "2022-12-21 14:28:45",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac629be25b0327257fb"
+  },
+  "unixTime": 1671632206,
+  "timestamp": "2022-12-21 14:28:46",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.83,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac729be25b0327257fc"
+  },
+  "unixTime": 1671632207,
+  "timestamp": "2022-12-21 14:28:47",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.76,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac829be25b0327257fd"
+  },
+  "unixTime": 1671632208,
+  "timestamp": "2022-12-21 14:28:48",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.78,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cac929be25b0327257fe"
+  },
+  "unixTime": 1671632209,
+  "timestamp": "2022-12-21 14:28:49",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.79,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caca29be25b0327257ff"
+  },
+  "unixTime": 1671632210,
+  "timestamp": "2022-12-21 14:28:50",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cacb29be25b032725800"
+  },
+  "unixTime": 1671632211,
+  "timestamp": "2022-12-21 14:28:51",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.64,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cacc29be25b032725801"
+  },
+  "unixTime": 1671632212,
+  "timestamp": "2022-12-21 14:28:52",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.21,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cacd29be25b032725802"
+  },
+  "unixTime": 1671632213,
+  "timestamp": "2022-12-21 14:28:53",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cace29be25b032725803"
+  },
+  "unixTime": 1671632214,
+  "timestamp": "2022-12-21 14:28:54",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cacf29be25b032725804"
+  },
+  "unixTime": 1671632215,
+  "timestamp": "2022-12-21 14:28:55",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad029be25b032725805"
+  },
+  "unixTime": 1671632216,
+  "timestamp": "2022-12-21 14:28:56",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad129be25b032725806"
+  },
+  "unixTime": 1671632217,
+  "timestamp": "2022-12-21 14:28:57",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad229be25b032725807"
+  },
+  "unixTime": 1671632218,
+  "timestamp": "2022-12-21 14:28:58",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad329be25b032725808"
+  },
+  "unixTime": 1671632219,
+  "timestamp": "2022-12-21 14:28:59",
+  "openPrice": "16822.91000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad429be25b032725809"
+  },
+  "unixTime": 1671632220,
+  "timestamp": "2022-12-21 14:29:00",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad529be25b03272580a"
+  },
+  "unixTime": 1671632221,
+  "timestamp": "2022-12-21 14:29:01",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.09,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad629be25b03272580b"
+  },
+  "unixTime": 1671632222,
+  "timestamp": "2022-12-21 14:29:02",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.83,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad729be25b03272580c"
+  },
+  "unixTime": 1671632223,
+  "timestamp": "2022-12-21 14:29:03",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad829be25b03272580d"
+  },
+  "unixTime": 1671632224,
+  "timestamp": "2022-12-21 14:29:04",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.33,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cad929be25b03272580e"
+  },
+  "unixTime": 1671632225,
+  "timestamp": "2022-12-21 14:29:05",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cada29be25b03272580f"
+  },
+  "unixTime": 1671632226,
+  "timestamp": "2022-12-21 14:29:06",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.1,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cadb29be25b032725810"
+  },
+  "unixTime": 1671632227,
+  "timestamp": "2022-12-21 14:29:07",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.96,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cadc29be25b032725811"
+  },
+  "unixTime": 1671632228,
+  "timestamp": "2022-12-21 14:29:08",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.34,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cadd29be25b032725812"
+  },
+  "unixTime": 1671632229,
+  "timestamp": "2022-12-21 14:29:09",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cade29be25b032725813"
+  },
+  "unixTime": 1671632230,
+  "timestamp": "2022-12-21 14:29:10",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.43,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cadf29be25b032725814"
+  },
+  "unixTime": 1671632231,
+  "timestamp": "2022-12-21 14:29:11",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae029be25b032725815"
+  },
+  "unixTime": 1671632232,
+  "timestamp": "2022-12-21 14:29:12",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.78,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae129be25b032725816"
+  },
+  "unixTime": 1671632233,
+  "timestamp": "2022-12-21 14:29:13",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae229be25b032725817"
+  },
+  "unixTime": 1671632234,
+  "timestamp": "2022-12-21 14:29:14",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae329be25b032725818"
+  },
+  "unixTime": 1671632235,
+  "timestamp": "2022-12-21 14:29:15",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.59,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae429be25b032725819"
+  },
+  "unixTime": 1671632236,
+  "timestamp": "2022-12-21 14:29:16",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16872.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae529be25b03272581a"
+  },
+  "unixTime": 1671632237,
+  "timestamp": "2022-12-21 14:29:17",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16871.56,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae629be25b03272581b"
+  },
+  "unixTime": 1671632238,
+  "timestamp": "2022-12-21 14:29:18",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16870.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae729be25b03272581c"
+  },
+  "unixTime": 1671632239,
+  "timestamp": "2022-12-21 14:29:19",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae829be25b03272581d"
+  },
+  "unixTime": 1671632240,
+  "timestamp": "2022-12-21 14:29:20",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.33,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cae929be25b03272581e"
+  },
+  "unixTime": 1671632241,
+  "timestamp": "2022-12-21 14:29:21",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.63,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caea29be25b03272581f"
+  },
+  "unixTime": 1671632242,
+  "timestamp": "2022-12-21 14:29:22",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.6,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caeb29be25b032725820"
+  },
+  "unixTime": 1671632243,
+  "timestamp": "2022-12-21 14:29:23",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caec29be25b032725821"
+  },
+  "unixTime": 1671632244,
+  "timestamp": "2022-12-21 14:29:24",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.91,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caed29be25b032725822"
+  },
+  "unixTime": 1671632245,
+  "timestamp": "2022-12-21 14:29:25",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.52,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caee29be25b032725823"
+  },
+  "unixTime": 1671632246,
+  "timestamp": "2022-12-21 14:29:26",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caef29be25b032725824"
+  },
+  "unixTime": 1671632247,
+  "timestamp": "2022-12-21 14:29:27",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.38,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf029be25b032725825"
+  },
+  "unixTime": 1671632248,
+  "timestamp": "2022-12-21 14:29:28",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf129be25b032725826"
+  },
+  "unixTime": 1671632249,
+  "timestamp": "2022-12-21 14:29:29",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.36,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf229be25b032725827"
+  },
+  "unixTime": 1671632250,
+  "timestamp": "2022-12-21 14:29:30",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.38,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf329be25b032725828"
+  },
+  "unixTime": 1671632251,
+  "timestamp": "2022-12-21 14:29:31",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.47,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf429be25b032725829"
+  },
+  "unixTime": 1671632252,
+  "timestamp": "2022-12-21 14:29:32",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.1,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf529be25b03272582a"
+  },
+  "unixTime": 1671632253,
+  "timestamp": "2022-12-21 14:29:33",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.17,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf629be25b03272582b"
+  },
+  "unixTime": 1671632254,
+  "timestamp": "2022-12-21 14:29:34",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.86,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf729be25b03272582c"
+  },
+  "unixTime": 1671632255,
+  "timestamp": "2022-12-21 14:29:35",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.19,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf829be25b03272582d"
+  },
+  "unixTime": 1671632256,
+  "timestamp": "2022-12-21 14:29:36",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caf929be25b03272582e"
+  },
+  "unixTime": 1671632257,
+  "timestamp": "2022-12-21 14:29:37",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cafa29be25b03272582f"
+  },
+  "unixTime": 1671632258,
+  "timestamp": "2022-12-21 14:29:38",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.5,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cafb29be25b032725830"
+  },
+  "unixTime": 1671632259,
+  "timestamp": "2022-12-21 14:29:39",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cafc29be25b032725831"
+  },
+  "unixTime": 1671632260,
+  "timestamp": "2022-12-21 14:29:40",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cafd29be25b032725832"
+  },
+  "unixTime": 1671632261,
+  "timestamp": "2022-12-21 14:29:41",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cafe29be25b032725833"
+  },
+  "unixTime": 1671632262,
+  "timestamp": "2022-12-21 14:29:42",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.3,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2caff29be25b032725834"
+  },
+  "unixTime": 1671632263,
+  "timestamp": "2022-12-21 14:29:43",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.32,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0029be25b032725835"
+  },
+  "unixTime": 1671632264,
+  "timestamp": "2022-12-21 14:29:44",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0129be25b032725836"
+  },
+  "unixTime": 1671632265,
+  "timestamp": "2022-12-21 14:29:45",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0229be25b032725837"
+  },
+  "unixTime": 1671632266,
+  "timestamp": "2022-12-21 14:29:46",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0329be25b032725838"
+  },
+  "unixTime": 1671632267,
+  "timestamp": "2022-12-21 14:29:47",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.47,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0429be25b032725839"
+  },
+  "unixTime": 1671632268,
+  "timestamp": "2022-12-21 14:29:48",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.36,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0529be25b03272583a"
+  },
+  "unixTime": 1671632269,
+  "timestamp": "2022-12-21 14:29:49",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0629be25b03272583b"
+  },
+  "unixTime": 1671632270,
+  "timestamp": "2022-12-21 14:29:50",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0729be25b03272583c"
+  },
+  "unixTime": 1671632271,
+  "timestamp": "2022-12-21 14:29:51",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.1,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0829be25b03272583d"
+  },
+  "unixTime": 1671632272,
+  "timestamp": "2022-12-21 14:29:52",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0929be25b03272583e"
+  },
+  "unixTime": 1671632273,
+  "timestamp": "2022-12-21 14:29:53",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.45,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0a29be25b03272583f"
+  },
+  "unixTime": 1671632274,
+  "timestamp": "2022-12-21 14:29:54",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0b29be25b032725840"
+  },
+  "unixTime": 1671632275,
+  "timestamp": "2022-12-21 14:29:55",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0c29be25b032725841"
+  },
+  "unixTime": 1671632276,
+  "timestamp": "2022-12-21 14:29:56",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.19,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0d29be25b032725842"
+  },
+  "unixTime": 1671632277,
+  "timestamp": "2022-12-21 14:29:57",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0e29be25b032725843"
+  },
+  "unixTime": 1671632278,
+  "timestamp": "2022-12-21 14:29:58",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.95,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb0f29be25b032725844"
+  },
+  "unixTime": 1671632279,
+  "timestamp": "2022-12-21 14:29:59",
+  "openPrice": "16822.70000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.07,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1029be25b032725845"
+  },
+  "unixTime": 1671632280,
+  "timestamp": "2022-12-21 14:30:00",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.45,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1129be25b032725846"
+  },
+  "unixTime": 1671632281,
+  "timestamp": "2022-12-21 14:30:01",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.01,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1229be25b032725847"
+  },
+  "unixTime": 1671632282,
+  "timestamp": "2022-12-21 14:30:02",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.95,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1329be25b032725848"
+  },
+  "unixTime": 1671632283,
+  "timestamp": "2022-12-21 14:30:03",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.46,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1429be25b032725849"
+  },
+  "unixTime": 1671632284,
+  "timestamp": "2022-12-21 14:30:04",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1529be25b03272584a"
+  },
+  "unixTime": 1671632285,
+  "timestamp": "2022-12-21 14:30:05",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1629be25b03272584b"
+  },
+  "unixTime": 1671632286,
+  "timestamp": "2022-12-21 14:30:06",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.81,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1729be25b03272584c"
+  },
+  "unixTime": 1671632287,
+  "timestamp": "2022-12-21 14:30:07",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1829be25b03272584d"
+  },
+  "unixTime": 1671632288,
+  "timestamp": "2022-12-21 14:30:08",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1929be25b03272584e"
+  },
+  "unixTime": 1671632289,
+  "timestamp": "2022-12-21 14:30:09",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.43,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1a29be25b03272584f"
+  },
+  "unixTime": 1671632290,
+  "timestamp": "2022-12-21 14:30:10",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.23,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1b29be25b032725850"
+  },
+  "unixTime": 1671632291,
+  "timestamp": "2022-12-21 14:30:11",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.36,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1c29be25b032725851"
+  },
+  "unixTime": 1671632292,
+  "timestamp": "2022-12-21 14:30:12",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1d29be25b032725852"
+  },
+  "unixTime": 1671632293,
+  "timestamp": "2022-12-21 14:30:13",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1e29be25b032725853"
+  },
+  "unixTime": 1671632294,
+  "timestamp": "2022-12-21 14:30:14",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.14,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb1f29be25b032725854"
+  },
+  "unixTime": 1671632295,
+  "timestamp": "2022-12-21 14:30:15",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.81,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2029be25b032725855"
+  },
+  "unixTime": 1671632296,
+  "timestamp": "2022-12-21 14:30:16",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2129be25b032725856"
+  },
+  "unixTime": 1671632297,
+  "timestamp": "2022-12-21 14:30:17",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.05,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2229be25b032725857"
+  },
+  "unixTime": 1671632298,
+  "timestamp": "2022-12-21 14:30:18",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.66,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2329be25b032725858"
+  },
+  "unixTime": 1671632299,
+  "timestamp": "2022-12-21 14:30:19",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2429be25b032725859"
+  },
+  "unixTime": 1671632300,
+  "timestamp": "2022-12-21 14:30:20",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.76,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2529be25b03272585a"
+  },
+  "unixTime": 1671632301,
+  "timestamp": "2022-12-21 14:30:21",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2629be25b03272585b"
+  },
+  "unixTime": 1671632302,
+  "timestamp": "2022-12-21 14:30:22",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2729be25b03272585c"
+  },
+  "unixTime": 1671632303,
+  "timestamp": "2022-12-21 14:30:23",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2829be25b03272585d"
+  },
+  "unixTime": 1671632304,
+  "timestamp": "2022-12-21 14:30:24",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.82,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2929be25b03272585e"
+  },
+  "unixTime": 1671632305,
+  "timestamp": "2022-12-21 14:30:25",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.98,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2a29be25b03272585f"
+  },
+  "unixTime": 1671632306,
+  "timestamp": "2022-12-21 14:30:26",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.16,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2b29be25b032725860"
+  },
+  "unixTime": 1671632307,
+  "timestamp": "2022-12-21 14:30:27",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.47,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2c29be25b032725861"
+  },
+  "unixTime": 1671632308,
+  "timestamp": "2022-12-21 14:30:28",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2d29be25b032725862"
+  },
+  "unixTime": 1671632309,
+  "timestamp": "2022-12-21 14:30:29",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.18,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2e29be25b032725863"
+  },
+  "unixTime": 1671632310,
+  "timestamp": "2022-12-21 14:30:30",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.54,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb2f29be25b032725864"
+  },
+  "unixTime": 1671632311,
+  "timestamp": "2022-12-21 14:30:31",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3029be25b032725865"
+  },
+  "unixTime": 1671632312,
+  "timestamp": "2022-12-21 14:30:32",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3129be25b032725866"
+  },
+  "unixTime": 1671632313,
+  "timestamp": "2022-12-21 14:30:33",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3229be25b032725867"
+  },
+  "unixTime": 1671632314,
+  "timestamp": "2022-12-21 14:30:34",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.6,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3329be25b032725868"
+  },
+  "unixTime": 1671632315,
+  "timestamp": "2022-12-21 14:30:35",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.61,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3429be25b032725869"
+  },
+  "unixTime": 1671632316,
+  "timestamp": "2022-12-21 14:30:36",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.29,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3529be25b03272586a"
+  },
+  "unixTime": 1671632317,
+  "timestamp": "2022-12-21 14:30:37",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.59,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3629be25b03272586b"
+  },
+  "unixTime": 1671632318,
+  "timestamp": "2022-12-21 14:30:38",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.33,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3729be25b03272586c"
+  },
+  "unixTime": 1671632319,
+  "timestamp": "2022-12-21 14:30:39",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.51,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3829be25b03272586d"
+  },
+  "unixTime": 1671632320,
+  "timestamp": "2022-12-21 14:30:40",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.75,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3929be25b03272586e"
+  },
+  "unixTime": 1671632321,
+  "timestamp": "2022-12-21 14:30:41",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3a29be25b03272586f"
+  },
+  "unixTime": 1671632322,
+  "timestamp": "2022-12-21 14:30:42",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3b29be25b032725870"
+  },
+  "unixTime": 1671632323,
+  "timestamp": "2022-12-21 14:30:43",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3c29be25b032725871"
+  },
+  "unixTime": 1671632324,
+  "timestamp": "2022-12-21 14:30:44",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.63,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3d29be25b032725872"
+  },
+  "unixTime": 1671632325,
+  "timestamp": "2022-12-21 14:30:45",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.61,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3e29be25b032725873"
+  },
+  "unixTime": 1671632326,
+  "timestamp": "2022-12-21 14:30:46",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.3,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb3f29be25b032725874"
+  },
+  "unixTime": 1671632327,
+  "timestamp": "2022-12-21 14:30:47",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.82,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4029be25b032725875"
+  },
+  "unixTime": 1671632328,
+  "timestamp": "2022-12-21 14:30:48",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4129be25b032725876"
+  },
+  "unixTime": 1671632329,
+  "timestamp": "2022-12-21 14:30:49",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4229be25b032725877"
+  },
+  "unixTime": 1671632330,
+  "timestamp": "2022-12-21 14:30:50",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.82,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4329be25b032725878"
+  },
+  "unixTime": 1671632331,
+  "timestamp": "2022-12-21 14:30:51",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.11,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4429be25b032725879"
+  },
+  "unixTime": 1671632332,
+  "timestamp": "2022-12-21 14:30:52",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.23,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4529be25b03272587a"
+  },
+  "unixTime": 1671632333,
+  "timestamp": "2022-12-21 14:30:53",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.05,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4629be25b03272587b"
+  },
+  "unixTime": 1671632334,
+  "timestamp": "2022-12-21 14:30:54",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.1,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4729be25b03272587c"
+  },
+  "unixTime": 1671632335,
+  "timestamp": "2022-12-21 14:30:55",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4829be25b03272587d"
+  },
+  "unixTime": 1671632336,
+  "timestamp": "2022-12-21 14:30:56",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.33,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4929be25b03272587e"
+  },
+  "unixTime": 1671632337,
+  "timestamp": "2022-12-21 14:30:57",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.24,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4a29be25b03272587f"
+  },
+  "unixTime": 1671632338,
+  "timestamp": "2022-12-21 14:30:58",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4b29be25b032725880"
+  },
+  "unixTime": 1671632339,
+  "timestamp": "2022-12-21 14:30:59",
+  "openPrice": "16816.18000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.52,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4c29be25b032725881"
+  },
+  "unixTime": 1671632340,
+  "timestamp": "2022-12-21 14:31:00",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.44,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4d29be25b032725882"
+  },
+  "unixTime": 1671632341,
+  "timestamp": "2022-12-21 14:31:01",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.45,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4e29be25b032725883"
+  },
+  "unixTime": 1671632342,
+  "timestamp": "2022-12-21 14:31:02",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.84,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb4f29be25b032725884"
+  },
+  "unixTime": 1671632343,
+  "timestamp": "2022-12-21 14:31:03",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.11,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5029be25b032725885"
+  },
+  "unixTime": 1671632344,
+  "timestamp": "2022-12-21 14:31:04",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.65,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5129be25b032725886"
+  },
+  "unixTime": 1671632345,
+  "timestamp": "2022-12-21 14:31:05",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5229be25b032725887"
+  },
+  "unixTime": 1671632346,
+  "timestamp": "2022-12-21 14:31:06",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.06,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5329be25b032725888"
+  },
+  "unixTime": 1671632347,
+  "timestamp": "2022-12-21 14:31:07",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.01,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5429be25b032725889"
+  },
+  "unixTime": 1671632348,
+  "timestamp": "2022-12-21 14:31:08",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5529be25b03272588a"
+  },
+  "unixTime": 1671632349,
+  "timestamp": "2022-12-21 14:31:09",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.36,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5629be25b03272588b"
+  },
+  "unixTime": 1671632350,
+  "timestamp": "2022-12-21 14:31:10",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.23,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5729be25b03272588c"
+  },
+  "unixTime": 1671632351,
+  "timestamp": "2022-12-21 14:31:11",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.15,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5829be25b03272588d"
+  },
+  "unixTime": 1671632352,
+  "timestamp": "2022-12-21 14:31:12",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5929be25b03272588e"
+  },
+  "unixTime": 1671632353,
+  "timestamp": "2022-12-21 14:31:13",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.9,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5a29be25b03272588f"
+  },
+  "unixTime": 1671632354,
+  "timestamp": "2022-12-21 14:31:14",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.07,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5b29be25b032725890"
+  },
+  "unixTime": 1671632355,
+  "timestamp": "2022-12-21 14:31:15",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5c29be25b032725891"
+  },
+  "unixTime": 1671632356,
+  "timestamp": "2022-12-21 14:31:16",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.29,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5d29be25b032725892"
+  },
+  "unixTime": 1671632357,
+  "timestamp": "2022-12-21 14:31:17",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.58,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5e29be25b032725893"
+  },
+  "unixTime": 1671632358,
+  "timestamp": "2022-12-21 14:31:18",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb5f29be25b032725894"
+  },
+  "unixTime": 1671632359,
+  "timestamp": "2022-12-21 14:31:19",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6029be25b032725895"
+  },
+  "unixTime": 1671632360,
+  "timestamp": "2022-12-21 14:31:20",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.02,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6129be25b032725896"
+  },
+  "unixTime": 1671632361,
+  "timestamp": "2022-12-21 14:31:21",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6229be25b032725897"
+  },
+  "unixTime": 1671632362,
+  "timestamp": "2022-12-21 14:31:22",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.03,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6329be25b032725898"
+  },
+  "unixTime": 1671632363,
+  "timestamp": "2022-12-21 14:31:23",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6429be25b032725899"
+  },
+  "unixTime": 1671632364,
+  "timestamp": "2022-12-21 14:31:24",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.35,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6529be25b03272589a"
+  },
+  "unixTime": 1671632365,
+  "timestamp": "2022-12-21 14:31:25",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.9,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6629be25b03272589b"
+  },
+  "unixTime": 1671632366,
+  "timestamp": "2022-12-21 14:31:26",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.34,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6729be25b03272589c"
+  },
+  "unixTime": 1671632367,
+  "timestamp": "2022-12-21 14:31:27",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.77,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6829be25b03272589d"
+  },
+  "unixTime": 1671632368,
+  "timestamp": "2022-12-21 14:31:28",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6929be25b03272589e"
+  },
+  "unixTime": 1671632369,
+  "timestamp": "2022-12-21 14:31:29",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.5,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6a29be25b03272589f"
+  },
+  "unixTime": 1671632370,
+  "timestamp": "2022-12-21 14:31:30",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.13,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6b29be25b0327258a0"
+  },
+  "unixTime": 1671632371,
+  "timestamp": "2022-12-21 14:31:31",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.11,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6c29be25b0327258a1"
+  },
+  "unixTime": 1671632372,
+  "timestamp": "2022-12-21 14:31:32",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6d29be25b0327258a2"
+  },
+  "unixTime": 1671632373,
+  "timestamp": "2022-12-21 14:31:33",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.69,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6e29be25b0327258a3"
+  },
+  "unixTime": 1671632374,
+  "timestamp": "2022-12-21 14:31:34",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.38,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb6f29be25b0327258a4"
+  },
+  "unixTime": 1671632375,
+  "timestamp": "2022-12-21 14:31:35",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.94,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7029be25b0327258a5"
+  },
+  "unixTime": 1671632376,
+  "timestamp": "2022-12-21 14:31:36",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.5,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7129be25b0327258a6"
+  },
+  "unixTime": 1671632377,
+  "timestamp": "2022-12-21 14:31:37",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.11,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7229be25b0327258a7"
+  },
+  "unixTime": 1671632378,
+  "timestamp": "2022-12-21 14:31:38",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.73,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7329be25b0327258a8"
+  },
+  "unixTime": 1671632379,
+  "timestamp": "2022-12-21 14:31:39",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.01,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7429be25b0327258a9"
+  },
+  "unixTime": 1671632380,
+  "timestamp": "2022-12-21 14:31:40",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7529be25b0327258aa"
+  },
+  "unixTime": 1671632381,
+  "timestamp": "2022-12-21 14:31:41",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7629be25b0327258ab"
+  },
+  "unixTime": 1671632382,
+  "timestamp": "2022-12-21 14:31:42",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.28,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7729be25b0327258ac"
+  },
+  "unixTime": 1671632383,
+  "timestamp": "2022-12-21 14:31:43",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7829be25b0327258ad"
+  },
+  "unixTime": 1671632384,
+  "timestamp": "2022-12-21 14:31:44",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.74,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7929be25b0327258ae"
+  },
+  "unixTime": 1671632385,
+  "timestamp": "2022-12-21 14:31:45",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7a29be25b0327258af"
+  },
+  "unixTime": 1671632386,
+  "timestamp": "2022-12-21 14:31:46",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.26,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7b29be25b0327258b0"
+  },
+  "unixTime": 1671632387,
+  "timestamp": "2022-12-21 14:31:47",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.49,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7c29be25b0327258b1"
+  },
+  "unixTime": 1671632388,
+  "timestamp": "2022-12-21 14:31:48",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.65,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7d29be25b0327258b2"
+  },
+  "unixTime": 1671632389,
+  "timestamp": "2022-12-21 14:31:49",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.63,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7e29be25b0327258b3"
+  },
+  "unixTime": 1671632390,
+  "timestamp": "2022-12-21 14:31:50",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.07,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb7f29be25b0327258b4"
+  },
+  "unixTime": 1671632391,
+  "timestamp": "2022-12-21 14:31:51",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.45,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8029be25b0327258b5"
+  },
+  "unixTime": 1671632392,
+  "timestamp": "2022-12-21 14:31:52",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8129be25b0327258b6"
+  },
+  "unixTime": 1671632393,
+  "timestamp": "2022-12-21 14:31:53",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.45,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8229be25b0327258b7"
+  },
+  "unixTime": 1671632394,
+  "timestamp": "2022-12-21 14:31:54",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.65,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8329be25b0327258b8"
+  },
+  "unixTime": 1671632395,
+  "timestamp": "2022-12-21 14:31:55",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8429be25b0327258b9"
+  },
+  "unixTime": 1671632396,
+  "timestamp": "2022-12-21 14:31:56",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.94,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8529be25b0327258ba"
+  },
+  "unixTime": 1671632397,
+  "timestamp": "2022-12-21 14:31:57",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.37,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8629be25b0327258bb"
+  },
+  "unixTime": 1671632398,
+  "timestamp": "2022-12-21 14:31:58",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.78,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8729be25b0327258bc"
+  },
+  "unixTime": 1671632399,
+  "timestamp": "2022-12-21 14:31:59",
+  "openPrice": "16812.53000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.5,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8829be25b0327258bd"
+  },
+  "unixTime": 1671632400,
+  "timestamp": "2022-12-21 14:32:00",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.48,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8929be25b0327258be"
+  },
+  "unixTime": 1671632401,
+  "timestamp": "2022-12-21 14:32:01",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.55,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8a29be25b0327258bf"
+  },
+  "unixTime": 1671632402,
+  "timestamp": "2022-12-21 14:32:02",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.85,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8b29be25b0327258c0"
+  },
+  "unixTime": 1671632403,
+  "timestamp": "2022-12-21 14:32:03",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.97,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8c29be25b0327258c1"
+  },
+  "unixTime": 1671632404,
+  "timestamp": "2022-12-21 14:32:04",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.27,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8d29be25b0327258c2"
+  },
+  "unixTime": 1671632405,
+  "timestamp": "2022-12-21 14:32:05",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.57,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8e29be25b0327258c3"
+  },
+  "unixTime": 1671632406,
+  "timestamp": "2022-12-21 14:32:06",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.95,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb8f29be25b0327258c4"
+  },
+  "unixTime": 1671632407,
+  "timestamp": "2022-12-21 14:32:07",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9029be25b0327258c5"
+  },
+  "unixTime": 1671632408,
+  "timestamp": "2022-12-21 14:32:08",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.43,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9129be25b0327258c6"
+  },
+  "unixTime": 1671632409,
+  "timestamp": "2022-12-21 14:32:09",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.32,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9229be25b0327258c7"
+  },
+  "unixTime": 1671632410,
+  "timestamp": "2022-12-21 14:32:10",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.3,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9329be25b0327258c8"
+  },
+  "unixTime": 1671632411,
+  "timestamp": "2022-12-21 14:32:11",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.3,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9429be25b0327258c9"
+  },
+  "unixTime": 1671632412,
+  "timestamp": "2022-12-21 14:32:12",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.43,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9529be25b0327258ca"
+  },
+  "unixTime": 1671632413,
+  "timestamp": "2022-12-21 14:32:13",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9629be25b0327258cb"
+  },
+  "unixTime": 1671632414,
+  "timestamp": "2022-12-21 14:32:14",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16858.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9729be25b0327258cc"
+  },
+  "unixTime": 1671632415,
+  "timestamp": "2022-12-21 14:32:15",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.14,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9829be25b0327258cd"
+  },
+  "unixTime": 1671632416,
+  "timestamp": "2022-12-21 14:32:16",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16859.22,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9929be25b0327258ce"
+  },
+  "unixTime": 1671632417,
+  "timestamp": "2022-12-21 14:32:17",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.12,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9a29be25b0327258cf"
+  },
+  "unixTime": 1671632418,
+  "timestamp": "2022-12-21 14:32:18",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9b29be25b0327258d0"
+  },
+  "unixTime": 1671632419,
+  "timestamp": "2022-12-21 14:32:19",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16860.42,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9c29be25b0327258d1"
+  },
+  "unixTime": 1671632420,
+  "timestamp": "2022-12-21 14:32:20",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.72,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9d29be25b0327258d2"
+  },
+  "unixTime": 1671632421,
+  "timestamp": "2022-12-21 14:32:21",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16863.12,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9e29be25b0327258d3"
+  },
+  "unixTime": 1671632422,
+  "timestamp": "2022-12-21 14:32:22",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.98,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cb9f29be25b0327258d4"
+  },
+  "unixTime": 1671632423,
+  "timestamp": "2022-12-21 14:32:23",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba029be25b0327258d5"
+  },
+  "unixTime": 1671632424,
+  "timestamp": "2022-12-21 14:32:24",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba129be25b0327258d6"
+  },
+  "unixTime": 1671632425,
+  "timestamp": "2022-12-21 14:32:25",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba229be25b0327258d7"
+  },
+  "unixTime": 1671632426,
+  "timestamp": "2022-12-21 14:32:26",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba329be25b0327258d8"
+  },
+  "unixTime": 1671632427,
+  "timestamp": "2022-12-21 14:32:27",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.1,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba429be25b0327258d9"
+  },
+  "unixTime": 1671632428,
+  "timestamp": "2022-12-21 14:32:28",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.04,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba529be25b0327258da"
+  },
+  "unixTime": 1671632429,
+  "timestamp": "2022-12-21 14:32:29",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.14,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba629be25b0327258db"
+  },
+  "unixTime": 1671632430,
+  "timestamp": "2022-12-21 14:32:30",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba729be25b0327258dc"
+  },
+  "unixTime": 1671632431,
+  "timestamp": "2022-12-21 14:32:31",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16861.62,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba829be25b0327258dd"
+  },
+  "unixTime": 1671632432,
+  "timestamp": "2022-12-21 14:32:32",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.14,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cba929be25b0327258de"
+  },
+  "unixTime": 1671632433,
+  "timestamp": "2022-12-21 14:32:33",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16862.15,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbaa29be25b0327258df"
+  },
+  "unixTime": 1671632434,
+  "timestamp": "2022-12-21 14:32:34",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.09,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbab29be25b0327258e0"
+  },
+  "unixTime": 1671632435,
+  "timestamp": "2022-12-21 14:32:35",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.31,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbac29be25b0327258e1"
+  },
+  "unixTime": 1671632436,
+  "timestamp": "2022-12-21 14:32:36",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16864.41,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbad29be25b0327258e2"
+  },
+  "unixTime": 1671632437,
+  "timestamp": "2022-12-21 14:32:37",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.64,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbae29be25b0327258e3"
+  },
+  "unixTime": 1671632438,
+  "timestamp": "2022-12-21 14:32:38",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.26,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbaf29be25b0327258e4"
+  },
+  "unixTime": 1671632439,
+  "timestamp": "2022-12-21 14:32:39",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.2,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb029be25b0327258e5"
+  },
+  "unixTime": 1671632440,
+  "timestamp": "2022-12-21 14:32:40",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.76,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb129be25b0327258e6"
+  },
+  "unixTime": 1671632441,
+  "timestamp": "2022-12-21 14:32:41",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.67,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb229be25b0327258e7"
+  },
+  "unixTime": 1671632442,
+  "timestamp": "2022-12-21 14:32:42",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.56,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb329be25b0327258e8"
+  },
+  "unixTime": 1671632443,
+  "timestamp": "2022-12-21 14:32:43",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.98,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb429be25b0327258e9"
+  },
+  "unixTime": 1671632444,
+  "timestamp": "2022-12-21 14:32:44",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.05,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb529be25b0327258ea"
+  },
+  "unixTime": 1671632445,
+  "timestamp": "2022-12-21 14:32:45",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.88,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb629be25b0327258eb"
+  },
+  "unixTime": 1671632446,
+  "timestamp": "2022-12-21 14:32:46",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.61,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb729be25b0327258ec"
+  },
+  "unixTime": 1671632447,
+  "timestamp": "2022-12-21 14:32:47",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16865.89,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb829be25b0327258ed"
+  },
+  "unixTime": 1671632448,
+  "timestamp": "2022-12-21 14:32:48",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16866.21,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbb929be25b0327258ee"
+  },
+  "unixTime": 1671632449,
+  "timestamp": "2022-12-21 14:32:49",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.6,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbba29be25b0327258ef"
+  },
+  "unixTime": 1671632450,
+  "timestamp": "2022-12-21 14:32:50",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16867.8,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbbb29be25b0327258f0"
+  },
+  "unixTime": 1671632451,
+  "timestamp": "2022-12-21 14:32:51",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.15,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbbc29be25b0327258f1"
+  },
+  "unixTime": 1671632452,
+  "timestamp": "2022-12-21 14:32:52",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16868.93,
+  "pair": "BTC/USDT"
+},{
+  "_id": {
+    "$oid": "63a2cbbd29be25b0327258f2"
+  },
+  "unixTime": 1671632453,
+  "timestamp": "2022-12-21 14:32:53",
+  "openPrice": "16806.80000000",
+  "highPrice": "16894.75000000",
+  "lowPrice": "16795.69000000",
+  "lastPrice": 16869.35,
+  "pair": "BTC/USDT"
+}]
